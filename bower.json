@@ -1,0 +1,17 @@
+{
+  "name": "react-express-mongodb",
+  "description": "App Isomorphic - React/Express/MongoDB",
+  "main": "index.js",
+  "authors": [
+    "Stefano Corra"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

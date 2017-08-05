@@ -1,0 +1,22 @@
+{
+  "name": "react-express-mongodb",
+  "version": "1.0.0",
+  "description": "App Isomorphic - React/Express/MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefano Corra",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stecor/react-express-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stecor/react-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/stecor/react-express-mongodb#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
