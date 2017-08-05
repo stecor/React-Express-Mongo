@@ -10,12 +10,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stecor/react-express-mongodb.git"
+    "url": "git+https://github.com/stecor/React-Express-Mongo.git"
   },
   "bugs": {
-    "url": "https://github.com/stecor/react-express-mongodb/issues"
+    "url": "https://github.com/stecor/React-Express-Mongo/issues"
   },
-  "homepage": "https://github.com/stecor/react-express-mongodb#readme",
+  "homepage": "https://github.com/stecor/React-Express-Mongo#readme",
   "dependencies": {
     "express": "^4.15.3"
   }
